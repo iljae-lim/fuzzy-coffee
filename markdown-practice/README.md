@@ -117,10 +117,9 @@ fixed | 뷰포트 | x
 
 <a href="https://google.com" target="_blank">GOOGLE</a>
 
-<img src="https://venerable-bienenstitch-6a7bd0.netlify.app/images/logo.png" alt="로고">
+<img src="https://venerable-bienenstitch-6a7bd0.netlify.app/images/logo.png" alt="로고  ">
 
 # 수평선(Horizontal Rule)
-
 --- 
 
 ***
